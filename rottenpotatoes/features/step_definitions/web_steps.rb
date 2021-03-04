@@ -17,8 +17,6 @@
 # * http://dannorth.net/2011/01/31/whose-domain-is-it-anyway/
 # * http://elabs.se/blog/15-you-re-cuking-it-wrong
 #
-
-
 require 'uri'
 require 'cgi'
 require File.expand_path(File.join(File.dirname(__FILE__), "..", "support", "paths"))
